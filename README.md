@@ -1,11 +1,11 @@
 ## Olá pessoal! 👋
 
-Me chamo Adriano, atualmente trabalhando como desenvolvedor front-end freelance e estudando mais sobre a carreira front-end.
+Me chamo Adriano, atualmente trabalhando como desenvolvedor front-end freelance.
 
 ### 🔭 Como me encontrar :
 [Meu perfil do LinkedIn](https://www.linkedin.com/in/adriano-neto19/)
 
-### Hard Skills :
+### 🖥️ Hard Skills :
 ![HTML](https://img.shields.io/badge/HTML5-323330?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white)
 ![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
