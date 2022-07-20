@@ -11,4 +11,4 @@ Me chamo Adriano, atualmente trabalhando como desenvolvedor front-end freelance.
 ![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianonf&layout=compact)](https://github.com/adrianonf/github-readme-stats)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianonf&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
