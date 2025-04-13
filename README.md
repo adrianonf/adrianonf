@@ -1,6 +1,6 @@
 ## Olá pessoal! 👋
 
-Me chamo Adriano, atualmente trabalhando como desenvolvedor front-end freelance.
+Desenvolvedor fullstack
 
 ### 🔭 Como me encontrar :
 [Meu perfil do LinkedIn](https://www.linkedin.com/in/adriano-neto19/)
