@@ -1,4 +1,4 @@
-# Olá, eu sou [Seu Nome] 👋
+# Olá, eu sou Adriano 👋
 ### Desenvolvedor Full Stack | Estudante de Análise e Desenvolvimento de Sistemas
 
 Sou um desenvolvedor apaixonado por unir código limpo a soluções inovadoras. Atualmente, concilio minha atuação profissional com a graduação, focando em arquiteturas escaláveis e no uso estratégico de **Inteligência Artificial** para otimização de fluxo de trabalho e qualidade de código.
