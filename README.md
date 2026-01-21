@@ -1,14 +1,29 @@
-## Olá pessoal! 👋
+# Olá, eu sou [Seu Nome] 👋
+### Desenvolvedor Full Stack | Estudante de Análise e Desenvolvimento de Sistemas
 
-Desenvolvedor fullstack
+Sou um desenvolvedor apaixonado por unir código limpo a soluções inovadoras. Atualmente, concilio minha atuação profissional com a graduação, focando em arquiteturas escaláveis e no uso estratégico de **Inteligência Artificial** para otimização de fluxo de trabalho e qualidade de código.
 
-### 🔭 Como me encontrar :
-[Meu perfil do LinkedIn](https://www.linkedin.com/in/adriano-neto19/)
+---
 
-### 🖥️ Hard Skills :
-![HTML](https://img.shields.io/badge/HTML5-323330?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white)
-![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB)
+### 🛠️ Tech Stack & Ferramentas
+Minhas principais competências técnicas incluem:
 
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianonf&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+- **Front-end:** React, Tailwind CSS, HTML5, CSS3, Figma.
+- **Back-end:** Node.js, Express.
+- **Linguagens:** JavaScript, TypeScript, Python.
+- **AI & Produtividade:** Uso de LLMs para Code Review, Refatoração e Documentação (AI-Assisted Coding).
+- **Controle de Versão:** Git, GitHub.
+
+---
+
+
+### 📊 Estatísticas do GitHub
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=adrianonf&show_icons=true&theme=gotham)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianonf&layout=compact&theme=gotham)
+
+---
+
+### 📫 Contato
+- **LinkedIn:** https://www.linkedin.com/in/adriano-neto19
+
