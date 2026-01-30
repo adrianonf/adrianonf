@@ -1,7 +1,7 @@
 # Olá, eu sou Adriano 👋
 ### Desenvolvedor Full Stack | Estudante de Análise e Desenvolvimento de Sistemas
 
-Sou um desenvolvedor apaixonado por unir código limpo a soluções inovadoras. Atualmente, concilio minha atuação profissional com a graduação, focando em arquiteturas escaláveis e no uso estratégico de **Inteligência Artificial** para otimização de fluxo de trabalho e qualidade de código.
+Atualmente, conciliando minha atuação profissional com a graduação, focando em arquiteturas escaláveis e no uso estratégico de **Inteligência Artificial** para otimização de fluxo de trabalho e qualidade de código.
 
 ---
 
@@ -10,12 +10,9 @@ Minhas principais competências técnicas incluem:
 
 - **Front-end:** React, Tailwind CSS, HTML5, CSS3, Figma.
 - **Back-end:** Node.js, Express.
-- **Linguagens:** JavaScript, TypeScript, Python.
 - **AI & Produtividade:** Uso de LLMs para Code Review, Refatoração e Documentação (AI-Assisted Coding).
 - **Controle de Versão:** Git, GitHub.
-
 ---
-
 
 ### 📊 Estatísticas do GitHub
 
