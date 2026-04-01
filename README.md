@@ -1,7 +1,7 @@
 # Olá, eu sou Adriano 👋
 ### Desenvolvedor Full Stack | Estudante de Análise e Desenvolvimento de Sistemas
 
-Atualmente, conciliando minha atuação profissional com a graduação, focando em arquiteturas escaláveis e no uso estratégico de **Inteligência Artificial** para otimização de fluxo de trabalho e qualidade de código.
+Atualmente, conciliando minha atuação profissional com a graduação, focando em arquiteturas escaláveis e no uso estratégico de IA para otimização de fluxo de trabalho e qualidade de código.
 
 ---
 
