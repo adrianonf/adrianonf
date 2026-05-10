@@ -21,5 +21,5 @@ Minhas principais competências técnicas incluem:
 ---
 
 ### 📫 Contato
-- **LinkedIn:** https://www.linkedin.com/in/adriano-neto19
+- **LinkedIn:** (https://www.linkedin.com/in/adriano-tx/)
 
