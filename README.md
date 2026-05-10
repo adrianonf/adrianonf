@@ -5,12 +5,11 @@ Atualmente, conciliando minha atuação profissional com a graduação, focando 
 
 ---
 
-### 🛠️ Tech Stack & Ferramentas
+### 🛠️ Tech Stacks
 Minhas principais competências técnicas incluem:
 
 - **Front-end:** React, Tailwind CSS, HTML5, CSS3, Figma.
 - **Back-end:** Node.js, Express.
-- **AI & Produtividade:** Uso de LLMs para Code Review, Refatoração e Documentação (AI-Assisted Coding).
 - **Controle de Versão:** Git, GitHub.
 ---
 
