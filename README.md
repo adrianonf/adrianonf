@@ -10,7 +10,7 @@ Minhas principais competências técnicas incluem:
 
 - **Front-end:** React, Tailwind CSS, HTML5, CSS3, Figma.
 - **Back-end:** Node.js, Express.
-- **Mobile:** Android Nativo (Java & Kotlin)
+- **Mobile:** React Native e Android Nativo (Java & Kotlin)
 - **Controle de Versão:** Git, GitHub.
 ---
 
